@@ -56,7 +56,7 @@
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/bhavin2897/ckanext-composite-search.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/TIBHannover/ckanext-composite-search.git&quot;,
     &quot;accountId&quot;: &quot;849dcb34-4f2c-4d7e-bd9c-4840c703f903&quot;
   }
 }</component>
@@ -101,7 +101,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
       </set>
     </attachedChunks>
   </component>
