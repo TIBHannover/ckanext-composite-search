@@ -177,6 +177,7 @@
     padding: 8px 25px;
     line-height: 20px;
     width: 30%;
+    border-radius: 5px;
     background-color: #206B82;
     border: none;
     position: relative;
